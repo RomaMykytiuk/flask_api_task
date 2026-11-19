@@ -22,13 +22,15 @@ COURSES = [
 FIRST_NAMES = [
     "James", "John", "Robert", "Michael", "David",
     "William", "Daniel", "Thomas", "Emma", "Olivia",
-    "Sophia", "Emily", "Isabella", "Mia", "Charlotte"
+    "Sophia", "Emily", "Isabella", "Mia", "Charlotte",
+    "Alexander", "Benjamin", "Lucas", "Grace", "Amelia"
 ]
 
 LAST_NAMES = [
     "Smith", "Johnson", "Williams", "Brown", "Jones",
     "Garcia", "Miller", "Davis", "Wilson", "Taylor",
-    "Anderson", "Thomas", "Jackson", "White", "Harris"
+    "Anderson", "Thomas", "Jackson", "White", "Harris",
+    "Martin", "Thompson", "Moore", "Lee", "Perez"
 ]
 
 
